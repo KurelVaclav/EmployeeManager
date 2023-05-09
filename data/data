@@ -1,0 +1,21 @@
+{
+    "email":"daniel@gmail.com",
+    "imageURL":"https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle":"JavaScript",
+    "name":"Daniel Newman",
+    "phone":"608918168"
+}
+{
+    "email":"sam@email.cz",
+    "imageURL":"https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle":"R-programming",
+    "name":"Sam Some",
+    "phone":"721259269"
+}
+{
+    "email":"pepa@gmail.com",
+    "imageURL":"https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle":"Security",
+    "name":"Josef Pepa",
+    "phone":"666999888"
+}
